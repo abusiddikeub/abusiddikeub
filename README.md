@@ -11,7 +11,7 @@ I'm passionate about Building useful Internet products and fulfilling my love an
 
 Experience with HTML5, CSS3,Tailwind, Javascript, React JS, Node.js, MongoDB and Bootstrap. Feel free to connect or message me if you want to collaborate on any projects. I would be delighted to connect and hear from you.
 
-Tech Highlights: ☑ Java Script ☑ React JS ☑ Node.js ☑ MongoDB ☑ HTML5 ☑ CSS3 ☑ Tailwind ☑ Bootstrap
+Tech Highlights: ☑ HTML5 ☑ CSS3 ☑ Tailwind ☑ Bootstrap ☑ Java Script ☑ React JS ☑ Node.js ☑ MongoDB
 
 Skills:  HTML / CSS/ TAILWIND/ REACT JS/ NODE.JS / MONGODB / BOOTSRRAP 
 
