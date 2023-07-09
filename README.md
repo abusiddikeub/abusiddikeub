@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Abu Siddik
+### Hi 👋, I'm Abu Siddik
 #### Web Developer
 ![Web Developer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsfqrCn4NqkXbB6tD-eCocbmh-AyGebSsy0A&usqp=CAU)
 
